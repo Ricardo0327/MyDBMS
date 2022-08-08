@@ -1,0 +1,9 @@
+name~age~
+varchar(10)~int~
+not null~not null~
+machi~10~
+lhh~21~
+lhh~21~
+zz~24~
+lhh~25~
+wh~26~
